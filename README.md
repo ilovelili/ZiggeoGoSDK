@@ -1,4 +1,4 @@
-# Ziggeo Go Server SDK\
+# Ziggeo Go Server SDK
 
 Ziggeo API (`https://ziggeo.com`) Go Server SDK.
 
